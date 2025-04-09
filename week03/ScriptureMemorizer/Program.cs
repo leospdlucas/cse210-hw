@@ -25,7 +25,7 @@ class Program {
             } else {
                 Console.Clear();
                 Console.WriteLine(scripture.GetDisplayText());
-                Console.WriteLine("\Memorization complete! All words have been hidden.");
+                Console.WriteLine("\nMemorization complete! All words have been hidden.");
                 break;
             }
         }
