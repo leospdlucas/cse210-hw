@@ -1,3 +1,10 @@
+/*
+// EXCEEDS -> Adds current date automatically using DateTime.Now. 
+// EXCEEDS: Converts entry to a string format for easy saving
+// EXCEEDS: Rebuilds an entry from saved data
+// EXCEEDS: 'using' for safe file handling
+*/
+
 using System;
 
 class Program {
